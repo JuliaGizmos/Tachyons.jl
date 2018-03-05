@@ -10,7 +10,7 @@ dom"div"(
 ```
 <img src="https://user-images.githubusercontent.com/25916/36969756-6de10308-208c-11e8-8d38-c0a2f8e4dc17.png" height="200">
 
-A simple wrapper for [tachyons css](http://tachyons.io/) framework for good design with as little CSS as possible.
+A simple wrapper for [tachyons css](http://tachyons.io/) framework for good design with as little CSS as possible. For final control, use [CSSUtil](https://github.com/JuliaGizmos/CSSUtil.jl).
 
 ## Usage
 
