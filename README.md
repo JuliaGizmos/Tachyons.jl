@@ -4,7 +4,7 @@
 |-------|----------|
 | [![Build Status](https://travis-ci.org/JuliaGizmos/Tachyons.jl.svg?branch=master)](https://travis-ci.org/JuliaGizmos/Tachyons.jl) | [![codecov](https://codecov.io/gh/JuliaGizmos/Tachyons.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/JuliaGizmos/Tachyons.jl)
 
-A simple wrapper for [tachyons css](http://tachyons.io/) framework.
+A simple wrapper for [tachyons css](http://tachyons.io/) framework for good design with as little CSS as possible.
 
 ## Usage
 
@@ -32,6 +32,7 @@ Here are the classes:
 - [`pa5`](http://tachyons.io/docs/layout/spacing/) -- pad with 5
 - [`bg-navy`](http://tachyons.io/docs/themes/skins/) -- background color
 - [`yellow`](http://tachyons.io/docs/themes/skins/) -- foreground color
+- [`br4`](http://tachyons.io/docs/themes/border-radius/) -- border radius
 - [`fl`](http://tachyons.io/docs/layout/floats/) -- float
 
 Check out the [Tachyons docs](http://tachyons.io/docs/) to find ones you're looking for.
