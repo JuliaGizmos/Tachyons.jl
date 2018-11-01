@@ -1,9 +1,8 @@
+using Test
 using Tachyons
-using Base.Test
 using WebIO
 using Blink
 using Observables
-using Base.Test
 
 notinstalled = !AtomShell.isinstalled()
 
